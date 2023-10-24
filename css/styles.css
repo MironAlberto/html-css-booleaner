@@ -1,3 +1,30 @@
+/* inizio reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* general */
+
+.grey-color-text{
+    color: grey;
+}
+
+.link{
+    color: rgb(85, 173, 224);
+    text-decoration: none;
+}
+
+/* fine general */
+
+
+
+
+
+
+
+
 /* inizio header */
 
 #main-header{
