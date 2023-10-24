@@ -30,6 +30,10 @@ p{
     text-decoration: none;
 }
 
+.white-color-text{
+    color: white;
+}
+
 /* fine general */
 
 
@@ -78,3 +82,28 @@ p{
 .width-50-cell{
     width: 50%;
 }
+
+/* fine main */
+
+
+
+/* inizio footer */
+
+#monitor-container{
+    background-image: url(../monitor.jpg);
+    margin-bottom: 10px;
+}
+
+#graph-container{
+    background-image: url(../graph.jpg); 
+}
+
+.article-container{
+    height: 150px;
+    width: 250px;
+    background-size: cover;
+    background-position: center;
+    padding: 5px;
+}
+
+/* fine footer*/
