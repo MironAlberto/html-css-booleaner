@@ -34,11 +34,6 @@ p{
 
 
 
-
-
-
-
-
 /* inizio header */
 
 #main-header{
@@ -57,3 +52,29 @@ p{
 } 
 
 /* fine header */
+
+
+
+/* inizio main */
+
+.main-table-thead{
+    text-align: left;
+    background-color: rgb(85, 173, 224);
+    color: white;
+}
+
+.blue-table-row{
+    background-color: rgb(155, 200, 226)
+}
+
+#collapsed-table{
+    border-collapse: collapse;
+}
+
+.width-25-cell{
+    width: 25%;
+}
+
+.width-50-cell{
+    width: 50%;
+}
