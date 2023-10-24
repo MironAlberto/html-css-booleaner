@@ -42,7 +42,7 @@ p{
 
 #main-header{
     background-color: rgb(85, 173, 224);
-    background-image: url(../pattern.png);
+    background-image: url(../img/pattern.png);
 }
 
 #logo-container{
@@ -99,12 +99,12 @@ h1{
 /* inizio footer */
 
 #monitor-container{
-    background-image: url(../monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     margin-bottom: 10px;
 }
 
 #graph-container{
-    background-image: url(../graph.jpg); 
+    background-image: url(../img/graph.jpg); 
 }
 
 .article-container{
