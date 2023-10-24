@@ -61,6 +61,15 @@ p{
 
 /* inizio main */
 
+main{
+    width: 80%;
+    margin: auto;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
 .main-table-thead{
     text-align: left;
     background-color: rgb(85, 173, 224);
